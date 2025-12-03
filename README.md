@@ -21,7 +21,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
-  I'm Adesh Vijay Khodge, a passionate software engineer and data analyst with 2.7 years of experience in both fields. My expertise spans full-stack web development and data analytics, where I excel in delivering impactful solutions across diverse projects. I bring a blend of technical proficiency and analytical insights to drive innovation in software engineering and data analysis.
+  I'm Adesh Vijay Ghodke, a passionate software engineer and data analyst with 2.7 years of experience in both fields. My expertise spans full-stack web development and data analytics, where I excel in delivering impactful solutions across diverse projects. I bring a blend of technical proficiency and analytical insights to drive innovation in software engineering and data analysis.
 </p>
 
 <p align="left">
